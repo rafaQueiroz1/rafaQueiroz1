@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rafaQueiroz1
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Front-end web development
-- 💞️ I’m looking to collaborate on Beginner friendly projects
+Aspiring data scientist, Python\R Programmer
 - 📫 How to reach me? at rQueiroz3722@gmail.com
 
 <!---
